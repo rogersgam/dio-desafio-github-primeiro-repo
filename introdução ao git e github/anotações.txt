@@ -1,0 +1,11 @@
+O git bash é um terminal estendido para otimizar o uso do Git.
+
+
+Commandos:
+
+git config --global -l
+
+
+git config --system -l
+
+
