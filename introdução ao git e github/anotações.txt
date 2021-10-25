@@ -5,7 +5,8 @@ Commandos:
 
 git config --global -l
 
-
 git config --system -l
 
+git add .
 
+git push origin main
