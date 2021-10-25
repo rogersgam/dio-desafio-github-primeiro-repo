@@ -1,12 +1,12 @@
 O git bash é um terminal estendido para otimizar o uso do Git.
 
 
-Commandos:
+Commandos básicos:
 
 git config --global -l
-
 git config --system -l
 
-git add .
 
+git add .
 git push origin main
+
