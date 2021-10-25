@@ -1,11 +1,12 @@
-## Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Desafio de projeto sobre Git/GitHub
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
-# Informações importantes sobre GitHub
+Desafio de projeto sobre Git/GitHub. Cadastrar aqui informações GITHUB
+
+## Informações importantes sobre GitHub
 
 - [Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core/blob/main/README.md) 
 
 
-# Links úteis
+## Links úteis
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
